@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am currently working on this file.
+
+I am aiming to share my goals and achievements, however at the moment, I am not ready to share them.
 <!--
 **cosmitessa/cosmitessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
