@@ -1,8 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
-I am currently working on this file.
+These are some of the projects I have worked on. I will continue adding more as I continue learning:
 
-I am aiming to share my goals and achievements, however at the moment, I am not ready to share them.
+* https://github.com/cosmitessa/azure-landing-zone-bifrost
+* https://github.com/cosmitessa/azure-event-driven-automation
+* https://github.com/cosmitessa/fastapi-docker-cicd
+* https://github.com/cosmitessa/azure-terraform-blueprints
 <!--
 **cosmitessa/cosmitessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
